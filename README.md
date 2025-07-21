@@ -78,9 +78,7 @@ Co-ordinaid/
 
 ## ✍️ Author
 
-- **Ankit Raj**  
-  Java Web Development Intern  
-  Prokits Digital  
+[Aditi Yadav](https://github.com/aditi2583)
 
 ## 📜 References
 
